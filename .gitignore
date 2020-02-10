@@ -1,32 +1,14 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
+PacketTool.jar
+*.iml
+*.zip
+*.txt
+*.bak
+日誌/
+.idea/
+config/
+target/
+dist/
+src/test/
+src/main/java/java
+script/
+META-INF/
